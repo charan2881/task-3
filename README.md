@@ -137,3 +137,10 @@ The visitor count is maintained using Redis.
 
 
 
+![Docker Build Output](screenshots/capture.png)
+![Docker Build Output](screenshots/capture1.png)
+![Docker Build Output](screenshots/capture2.png)
+![Docker Build Output](screenshots/capture3.png)
+![Docker Build Output](screenshots/capture4.png)
+![Docker Build Output](screenshots/capture5.png)
+![Docker Build Output](screenshots/capture6.png)
